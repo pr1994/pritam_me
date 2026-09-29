@@ -16,7 +16,7 @@ Currently designing and building agentic AI systems that integrate seamlessly wi
 |--------|----------------------|
 | **Enterprise Content Management** | Oracle WebCenter Content (WCC), WebCenter Capture, Oracle Imaging, Oracle HTTP Server |
 | **Middleware & Infrastructure** | WebLogic, OCI, IDCS |
-| **AI/ML & Automation** | LangGraph, LangChain, Streamlit, Groq API |
+| **AI/ML & Automation** | Oracle Fusion Agentic AI, Gen AI, Machine Learning,LangGraph, LangChain, Streamlit, Groq API |
 | **Programming** | Python, Java, JavaScript, jQuery |
 | **Search & Indexing** | Apache Solr, Full‑Text Search |
 | **Version Control & CI/CD** | GitHub, Git, Automation Pipelines |
